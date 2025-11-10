@@ -1,0 +1,8 @@
+
+# Required packages for Live Options Trading Dashboard
+yfinance
+pandas
+numpy
+plotly
+dash
+openpyxl
